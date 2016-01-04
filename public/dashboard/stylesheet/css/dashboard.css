@@ -16,6 +16,9 @@ body {
         margin-top: 50px;
     }
 }
+.CodeMirror .cm-s-default .CodeMirror-wrap{
+    margin-top: 60px;
+}
 .powered-by-firepad {
     background-image : url(../img/CocoPad.png);
     height: 35px

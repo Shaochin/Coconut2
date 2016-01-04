@@ -82,7 +82,8 @@ $(document).ready(function() {
 
     $('.Profile').click(function(event) {
 
-        $('#profileModal').modal('toggle');
+        $('#myModal').modal('toggle');
+        
     });
     var init = (function(){
         var regDiaLoader = (function() {
